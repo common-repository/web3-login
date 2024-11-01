@@ -1,0 +1,42 @@
+# Copyright (C) 2013 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello World Project\n"
+"Report-Msgid-Bugs-To: https://twitter.com/WpWeb3Login\n"
+"POT-Creation-Date: 2022-02-12 17:03+0900\n"
+"PO-Revision-Date: 2022-02-12 17:03+0900\n"
+"Last-Translator: wp-web3-login <wp-web3-login@gmail.com>\n"
+"Language-Team: wp-web3-login <wp-web3-login@gmail.com>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+ 
+msgid "How to Sign-up this site?"
+msgstr "このサイトへの登録方法"
+
+msgid "Just click/tap above button, If you have Metamask or any web3 wallets, select yours. If no, select Torus to Sign-up this site with your Google, Facebook or other social accounts."
+msgstr "上のボタンをタップしてください。MetamaskなどのWeb3ウォレットをお持ちでしたら、お持ちのものをご選択ください。お持ちでなければTorusをお選びください。GoogleやFacebook,LINEなどで簡単にこのサイトへの登録とログインが可能です。"
+
+msgid "Web3 Sign-up/login"
+msgstr "Web3登録／ログイン"
+
+msgid "Start Instration with nodejs"
+msgstr "nodejsでインストールを開始する"
+
+msgid "Start Instration with python3"
+msgstr "python3でインストールを開始する"
+
+msgid "Settings of this plugin"
+msgstr "このプラグインの設定"
+
+msgid "successfully login redirect URL"
+msgstr "ログイン成功時のリダイレクト先"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
